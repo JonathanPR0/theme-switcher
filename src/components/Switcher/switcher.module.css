@@ -1,0 +1,23 @@
+.toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 200px;
+  height: 100px;
+  padding: 10px;
+  border: none;
+  border-radius: 50px;
+  background-color: #121212;
+  transition: ease-in-out 0.2s;
+}
+.moon,
+.sun {
+  width: 80px;
+  height: 80px;
+  transition: ease-in-out 0.2s;
+}
+.moon {
+  position: relative;
+  right: 100px;
+}
