@@ -2,7 +2,7 @@
 
 <img src="./public/animation.gif" style="margin-bottom: 10px;">
 
-O "theme-switcher" é um desafio proposto pela Rocketseat em que ao clicar no botão poderia ser ativado ou desativado do dark mode. Para facilitar a utilização futura ele foi criado como um componente React.
+O "theme-switcher" é um desafio proposto pela Rocketseat em que ao clicar no botão poderia ser ativado ou desativado o dark mode. De maneira que facilite a futura utilização, ele foi criado como um componente React.
 
 ### 👨‍💻 Tecnologias
 
